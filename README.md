@@ -37,7 +37,7 @@ layout:
 {% column width="50%" %}
 ## Get started in minutes
 
-Make your first API call in under 5 minutes.
+Maaaaake your first API call in under 5 minutes.
 
 This quickstart walks through the basic setup: create an account, generate an API key, and send a test request. The examples use the same request in several languages, so you can start with the one that matches your stack.
 
