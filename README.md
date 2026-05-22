@@ -1,5 +1,5 @@
 ---
-description: Welcome to Card Suite Documentation
+description: Welcome to Caaaard Suite Documentation
 icon: house
 layout:
   width: wide
